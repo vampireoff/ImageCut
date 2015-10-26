@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">图片裁剪</string>
+    <string name="action_select">Pick</string>
+	<string name="crop__saving">Saving picture…</string> 
+	<string name="crop__wait">Please wait…</string> 
+	<string name="crop__pick_error">No image sources available</string> 
+	<string name="crop__done">DONE</string> 
+	<string name="crop__cancel">Cancle</string>
+</resources>
